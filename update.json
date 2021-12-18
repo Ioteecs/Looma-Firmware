@@ -1,0 +1,10 @@
+{
+    "type": "Looma",
+    "fwversion": "2021.12.1",
+    "fsversion": "2021.12.1", 
+    "host": "raw.githubusercontent.com",
+    "port": 443,
+    "ssl": "true",
+    "firmmware":  "/Ioteecs/Looma-Firmware/master/upgrade/Looma-App.bin",
+    "filesystem": "/Ioteecs/Looma-Firmware/master/upgrade/Looma-Filesystem.bin"
+}
