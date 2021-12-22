@@ -9,4 +9,3 @@ Once, you have choosen Manual update, you can acces the firmware update interfac
 # How do I check the versions ?
 Go to Parameters > Information
 The versions of the components are displayed.
-
