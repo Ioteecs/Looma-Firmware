@@ -1,7 +1,7 @@
 {
     "type": "Looma",
-    "fwversion": "2021.12.1",
-    "fsversion": "2021.12.1", 
+    "fwversion": "2021.12.2",
+    "fsversion": "2021.12.2", 
     "host": "raw.githubusercontent.com",
     "port": 443,
     "ssl": "true",
